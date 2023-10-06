@@ -2,17 +2,24 @@
   "scenes": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "img": "Module 2 Project",
-      "linkedScenes" : 2
+      "title": "Lab",
+      "description": "Welcome to the Umbrella Corporation Research Facility.<br> Within these walls, you will find state-of-the-art laboratories, top-tier research teams, and a collaborative environment that fosters creativity and ingenuity.<br> Our pursuit of knowledge and excellence is unmatched, and we encourage you to actively engage in projects that align with our vision. <br>Safety is of utmost importance to us. Please familiarize yourself with our safety protocols and guidelines. If you have any questions or concerns, our experienced staff is always available to assist you. Join us in unraveling the mysteries of science and shaping the future. Your journey at Umbrella Corporation promises to be challenging, rewarding, and above all, a stepping stone toward a brighter tomorrow.<br> Welcome to a world of endless possibilities. Welcome to Umbrella Corporation." ,
+      "img src": "https://imgur.com/Z9vERK8",
+      "linkedScenes" : [2,3]
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "img": "Module 2 Project",
+      "title": " Arklay Mansion ",
+      "description": "Welcome to the Arklay Mansion. <br>Step cautiously into the shadows of this enigmatic residence, nestled in the foreboding embrace of the Arklay Mountains. The air carries whispers of long-forgotten secrets, and the walls bear silent witness to untold horrors.<br>As the doors creak open, you enter a world where fear clings to the very fabric of existence. The history of this place is etched in the very foundations, and every step you take echoes with the weight of its dark past.<br>Within these halls, the macabre dances with curiosity, and mysteries lurk in the dim-lit corners. The mansion's walls have stories to tell, stories that will send shivers down your spine.<br>",
+      "img": "https://imgur.com/a/kCZPDMe",
       "linkedScenes" : [1, 3]
+    },
+    {
+      "id": 3,
+      "title": "Raccon City ",
+      "description": "Welcome to Raccoon City.<br>Once a vibrant metropolis, now a harrowing wasteland. A deadly virus unleashed an apocalypse, turning its citizens into abominations. The city streets are a battleground, and survival demands your wits and will.<br>In this urban nightmare, chaos reigns supreme. Brace yourself as you step into a realm where every corner holds peril. Welcome to Raccoon City—may your resolve hold amidst the outbreak. Your fight for survival begins now.<br>",
+      "img src": "https://imgur.com/a/mpWTpie",
+      "linkedScenes" : [1, 2]
     }
     
   ],
@@ -20,24 +27,26 @@
     {
       "id": 1,
       "sceneId": 1,
-      "name": 1,
-      "description": "Use Vite to create a basic React app"
+      "img src":  "https://imgur.com/a/IhJFmzf",
+      "description": " Umbrella Corp: a single-stranded RNA non-carcinogenic mutagen retrovirus from a plant that enhances the human body with rapid mutations through gene editing."
     },
     {
       "id": 2,
-      "sceneId": 1,
-      "name": 1,
-      "description": "Install React Router and setup routes"
+      "sceneId": 2,
+      "name": "body",
+      "img src":  "https://imgur.com/a/IhJFmzf",
+      "description": "You stumble upon a lifeless body. Signs of a gruesome struggle are etched upon the remains — grotesque wounds and bite marks. An unknown creature or perhaps a twisted, reanimated being may be lurking. Stay vigilant; danger lurks in the shadows."
     },
     {
       "id": 3,
-      "sceneId": 2,
-      "name": 1,
-      "description": "Create a form with 5 input fields"
+      "sceneId": 3,
+      "name": "Humnas with an odd behaviour",
+      "img src":  "https://imgur.com/a/exsMulf ",
+      "description": "In the desolate streets of Raccoon City, a chilling encounter awaits. Before you stands a person, their demeanor unnerving and movements erratic. The T-Virus has taken hold, reducing them to a haunting zombie—bereft of humanity, driven by insatiable hunger.<br> The horrors of Raccoon City have taken a ghastly form; prepare for a relentless battle for survival."
     }
   ],
   "playername" :
   {
-    "playername": "Ed&JJ"
+    "playername": "Edd&JJ"
     }
 }
