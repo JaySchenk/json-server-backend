@@ -1,7 +1,7 @@
 {
   "scenes": [
     {
-      "id": 1,
+      "id": 0,
       "title": "Umbrella LABs",
         "description": [
           "Welcome to the Umbrella Corporation Research Facility!",
@@ -13,10 +13,10 @@
     
       
       "imgsrc": "https://imgur.com/Z9vERK8.jpg",
-      "linkedScenes" : [2,3]
+      "linkedScenes" : [1,2]
     },
     {
-      "id": 2,
+      "id": 1,
       "title": " Arklay Mansion ",
       "description": [
         "Welcome to the Arklay Mansion!",
@@ -25,10 +25,10 @@
         "Within these halls, the macabre dances with curiosity, and mysteries lurk in the dim-lit corners. The mansion's walls have stories to tell, stories that will send shivers down your spine."
       ],
       "imgsrc": "https://i.imgur.com/w2iAnha.png",
-      "linkedScenes" : [1, 3]
+      "linkedScenes" : [0, 2]
     },
     {
-      "id": 3,
+      "id": 2,
       "title": "Raccon City ",
       "description": [
         "Welcome to Raccoon City!",
@@ -36,27 +36,28 @@
         "In this urban nightmare, chaos reigns supreme. Brace yourself as you step into a realm where every corner holds peril. Welcome to Raccoon City—may your resolve hold amidst the outbreak. Your fight for survival begins now."
       ],
       "imgsrc": "https://i.imgur.com/m4HfBqK.jpeg",
-      "linkedScenes" : [1, 2]
+      "linkedScenes" : [0, 1]
     }
     
   ],
   "objects": [
     {
-      "id": 1,
-      "sceneId": 1,
+      "id": 0,
+      "sceneId": 0,
+      "name": "Regenerate (T-Virus)",
       "imgsrc":  "https://imgur.com/a/IhJFmzf.jpg",
       "description": " Umbrella Corp: a single-stranded RNA non-carcinogenic mutagen retrovirus from a plant that enhances the human body with rapid mutations through gene editing."
     },
     {
-      "id": 2,
-      "sceneId": 2,
+      "id": 1,
+      "sceneId": 1,
       "name": "body",
       "imgsrc":  "https://imgur.com/a/IhJFmzf.jpg",
       "description": "You stumble upon a lifeless body. Signs of a gruesome struggle are etched upon the remains — grotesque wounds and bite marks. An unknown creature or perhaps a twisted, reanimated being may be lurking. Stay vigilant; danger lurks in the shadows."
     },
     {
-      "id": 3,
-      "sceneId": 3,
+      "id": 2,
+      "sceneId": 2,
       "name": "Humnas with an odd behaviour",
       "imgsrc":  "https://imgur.com/a/exsMulf.jpg",
       "description": "In the desolate streets of Raccoon City, a chilling encounter awaits. Before you stands a person, their demeanor unnerving and movements erratic. The T-Virus has taken hold, reducing them to a haunting zombie—bereft of humanity, driven by insatiable hunger.<br> The horrors of Raccoon City have taken a ghastly form; prepare for a relentless battle for survival."
