@@ -45,21 +45,21 @@
       "id": 0,
       "sceneId": 0,
       "name": "Regenerate (T-Virus)",
-      "imgsrc":  "https://imgur.com/a/IhJFmzf.jpg",
+      "imgsrc":  "https://i.imgur.com/Nk9zRmV.png",
       "description": " Umbrella Corp: a single-stranded RNA non-carcinogenic mutagen retrovirus from a plant that enhances the human body with rapid mutations through gene editing."
     },
     {
       "id": 1,
       "sceneId": 1,
       "name": "body",
-      "imgsrc":  "https://imgur.com/a/IhJFmzf.jpg",
+      "imgsrc":  "https://i.imgur.com/FdjbrRK.jpeg",
       "description": "You stumble upon a lifeless body. Signs of a gruesome struggle are etched upon the remains — grotesque wounds and bite marks. An unknown creature or perhaps a twisted, reanimated being may be lurking. Stay vigilant; danger lurks in the shadows."
     },
     {
       "id": 2,
       "sceneId": 2,
       "name": "Humnas with an odd behaviour",
-      "imgsrc":  "https://imgur.com/a/exsMulf.jpg",
+      "imgsrc":  "https://i.imgur.com/WeKq1jS.png",
       "description": "In the desolate streets of Raccoon City, a chilling encounter awaits. Before you stands a person, their demeanor unnerving and movements erratic. The T-Virus has taken hold, reducing them to a haunting zombie—bereft of humanity, driven by insatiable hunger.<br> The horrors of Raccoon City have taken a ghastly form; prepare for a relentless battle for survival."
     }
   ],
