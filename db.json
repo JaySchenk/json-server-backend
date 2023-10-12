@@ -33,7 +33,8 @@
       "description": [
         "Welcome to Raccoon City!",
         "Once a vibrant metropolis, now a harrowing wasteland. A deadly virus unleashed an apocalypse, turning its citizens into abominations. The city streets are a battleground, and survival demands your wits and will.",
-        "In this urban nightmare, chaos reigns supreme. Brace yourself as you step into a realm where every corner holds peril. Welcome to Raccoon City—may your resolve hold amidst the outbreak. Your fight for survival begins now."
+        "In this urban nightmare, chaos reigns supreme. Brace yourself as you step into a realm where every corner holds peril.",
+        "Welcome to Raccoon City—may your resolve hold amidst the outbreak. Your fight for survival begins now."
       ],
       "imgsrc": "https://i.imgur.com/m4HfBqK.jpeg",
       "linkedScenes" : [0, 1]
@@ -51,16 +52,16 @@
     {
       "id": 1,
       "sceneId": 1,
-      "name": "body",
-      "imgsrc":  "https://i.imgur.com/FdjbrRK.jpeg",
+      "name": "Body",
+      "imgsrc":  "https://i.imgur.com/0CHSKOQ.png",
       "description": "You stumble upon a lifeless body. Signs of a gruesome struggle are etched upon the remains — grotesque wounds and bite marks. An unknown creature or perhaps a twisted, reanimated being may be lurking. Stay vigilant; danger lurks in the shadows."
     },
     {
       "id": 2,
       "sceneId": 2,
-      "name": "Humnas with an odd behaviour",
+      "name": "Humnas with an odd Behaviour",
       "imgsrc":  "https://i.imgur.com/WeKq1jS.png",
-      "description": "In the desolate streets of Raccoon City, a chilling encounter awaits. Before you stands a person, their demeanor unnerving and movements erratic. The T-Virus has taken hold, reducing them to a haunting zombie—bereft of humanity, driven by insatiable hunger.<br> The horrors of Raccoon City have taken a ghastly form; prepare for a relentless battle for survival."
+      "description": "In the desolate streets of Raccoon City, a chilling encounter awaits. Before you stands a person, their demeanor unnerving and movements erratic. The T-Virus has taken hold, reducing them to a haunting zombie—bereft of humanity, driven by insatiable hunger. The horrors of Raccoon City have taken a ghastly form; prepare for a relentless battle for survival."
     }
   ],
   "playername" :
